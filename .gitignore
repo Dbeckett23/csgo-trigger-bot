@@ -1,7 +1,9 @@
 .vs
-*/Debug/
+Debug/*
+/Debug/*
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
 *.filters
 *.users
+*.obj
